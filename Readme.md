@@ -15,7 +15,7 @@ Utilizei o "ChatGPT" para criar um texto para ebook, com foco em html, javascrip
 ## 🚀 Resultados
 O e-book apresenta um conteúdo sucinto, com foco em html, javascript e CSS, listando as principais tags de html, funções comuns de javascript e seletores CSS com exemplos em código.
 
-- E-Book Revisado: (https://github.com/Zitto1979/lab-natty-or-not/blob/main/EBook.pdf)
+- E-Book Revisado: (https://github.com/Zitto1979/lab-natty-or-not/blob/main/EBook.pdf](https://github.com/Zitto1979/EbookComChatGPT/blob/main/eBOOK2.pdf)
 
 ## 💭 Reflexão
 Criar este e-book foi uma experiência reveladora sobre o potencial criativo das IAs e como elas podem ser aplicadas em diferentes contextos.
