@@ -4,7 +4,7 @@
 Este e-book foi revisado pelo ChatGPT como proposta do Desafio "Criando um Ebook com ChatGPT & MidJourney" do BootCamp CAIXA - IA Generativa com Microsoft Copilot.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização.
 - API OpenAI para gerar imagens.
 - Paint para edição das imagens.
 - Ferramenta **PowerPoint** para edição.
