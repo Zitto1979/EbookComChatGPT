@@ -1,20 +1,19 @@
-# Desafio: Natural ou Fake Natty? 💘
+# Desafio: Criando um Ebook com ChatGPT & MidJourney 💘
 
 ## 📒 Descrição
-Este e-book foi revisado pelo ChatGPT como proposta do Desafio "Natural ou Fake Natty? Como Vencer na Era das IAs Generativas!." do BootCamp CAIXA - IA Generativa com Microsoft Copilot.
+Este e-book foi revisado pelo ChatGPT como proposta do Desafio "Criando um Ebook com ChatGPT & MidJourney" do BootCamp CAIXA - IA Generativa com Microsoft Copilot.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- Ferramenta **Libre Office** para edição.
+- API OpenAI para gerar imagens.
+- Paint para edição das imagens.
+- Ferramenta **PowerPoint** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre O uso de Análise de Dados na Auditoria, estruturar o conteúdo e refinar minhas ideias. 
-Por se tratar de um conteúdo bem resumido e revisado de uma pesquisa prévia que usei para participar de um Processo Seletivo na CAIXA, não achei necessário incluir imagens. 
-Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para criar um texto para ebook, com foco em html, javascript e CSS, listando as principais tags de html, funções comuns de javascript e seletores CSS com exemplos em código..
 
 ## 🚀 Resultados
-O e-book apresenta um conteúdo sucinto, demonstrando como Análise de Dados na Auditoria podem proporcionar melhor Identificação de padrões e tendências, Redução de erros e aumento da precisão, Identificação de riscos, Eficiência e produtividade.
-A otimização da auditoria através do uso de análise de dados permite a Identificação rápida de irregularidades, Maior precisão na detecção de fraudes, Agilidade na geração de relatórios e Integração com outras áreas da Empresa..
+O e-book apresenta um conteúdo sucinto, com foco em html, javascript e CSS, listando as principais tags de html, funções comuns de javascript e seletores CSS com exemplos em código.
 
 - E-Book Revisado: (https://github.com/Zitto1979/lab-natty-or-not/blob/main/EBook.pdf)
 
